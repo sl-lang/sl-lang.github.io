@@ -1,11 +1,11 @@
 Package: sll
-Version: 0.7.20
+Version: 0.7.21
 Architecture: amd64
 Maintainer: Krzem5 <krzem5.dev@gmail.com>
 Filename: pkg/apt/unstable/sll.deb
-Size: 244588
-MD5sum: 042bfee48068273369d9d158c00b04f2
-SHA1: f4e66511196fa72229a1d45abd01032965262432
-SHA256: a99035cf92c969a954e8856e8a6563e058bba1db4a21d9d4c620ebe271d5e90a
+Size: 245724
+MD5sum: 22c109365062de6c92fc1ee60bdd5ba9
+SHA1: b059f5fdb2310d0fc48f418c1124d9dcb1d7e479
+SHA256: b6e2010de6d1b31d163ef6769e0a37b12bb7bf7f4e93d9e5989843744f43fa8b
 Description: A simple yet powerful programing language intended for beginner as well as advanced software developers.
 
