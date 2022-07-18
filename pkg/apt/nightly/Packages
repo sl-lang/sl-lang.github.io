@@ -1,11 +1,11 @@
 Package: sll
-Version: 0.7.27-nightly-17.07.2022
+Version: 0.7.27-nightly-18.07.2022
 Architecture: amd64
 Maintainer: Krzem5 <krzem5.dev@gmail.com>
 Filename: pkg/apt/nightly/sll.deb
-Size: 266288
-MD5sum: eda2b2cb0f01826296a9335fc6b792ae
-SHA1: 3fc170a45ab8d1baf0e7dec3446c2aa4369b7b9f
-SHA256: 8de959a0097221909b8d473b27669b7c6ddc8f6d3ba40f158b1a6dd64ba02249
+Size: 266232
+MD5sum: 62b28db6d9aec72868346f2ccf3a40a4
+SHA1: f73bc99842f58f113f249de5806947e5b1251092
+SHA256: 60bab2df2418931bc7005b9bb5a0e7f2a2baa71775241c163df4b55d821c6489
 Description: SL Programing Language
 
