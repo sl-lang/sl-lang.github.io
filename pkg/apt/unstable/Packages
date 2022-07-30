@@ -1,11 +1,11 @@
 Package: sll
-Version: 0.7.27
+Version: 0.7.28
 Architecture: amd64
 Maintainer: Krzem5 <krzem5.dev@gmail.com>
 Filename: pkg/apt/unstable/sll.deb
-Size: 260340
-MD5sum: 0dd5e6b02bec85e634a651917fd0a70e
-SHA1: 3a70d12e93f71e8a4474cd6c712e6d903f0cc502
-SHA256: 905d8754bdf5f265599511cd7f7685413ae2d689054060784ad1527240018a6b
+Size: 261044
+MD5sum: f648ca87f2b2d656f015f27f92d7fcde
+SHA1: 4dba84163358aed4edc1d0395dc0cf558d7101eb
+SHA256: cbde1690e411cfa59d61b90b360ef65566fe3c86dff54259a29857bdeefcb682
 Description: SL Programing Language
 
