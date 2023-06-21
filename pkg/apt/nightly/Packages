@@ -1,11 +1,11 @@
 Package: sll
-Version: 0.8.10-nightly-20.06.2023
+Version: 0.8.10-nightly-21.06.2023
 Architecture: amd64
 Maintainer: Krzem5 <krzem5.dev@gmail.com>
 Filename: pkg/apt/nightly/sll.deb
-Size: 347306
-MD5sum: 7e6d9e8cc317a6463cdd744606dbca07
-SHA1: e33fc9205e37177bd77681c59a2b655e1ec2c8a4
-SHA256: 93e92648b30adaafff08f066d1c4e8f7a2a52146c1b1854e6e66d370970177c9
+Size: 347300
+MD5sum: 5e36e89d337ce717081432227daff8bd
+SHA1: ecc0fd5c6710537b1070f4a1960c61c87ce07694
+SHA256: 329584b8b9ade5bc0ab19a5d428d13cec127ea906cf95249e36533dfe0b9898b
 Description: SL Programing Language
 
